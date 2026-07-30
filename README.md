@@ -21,11 +21,10 @@ Foco atual em lógica de programação e desenvolvimento web, migrando aos pouco
 ## Projetos em destaque
 
 **SalesSim** — simulador de treinamento comercial com IA, que recria conversas de clientes em uma interface estilo WhatsApp, com feedback de coach e progresso por XP.
-`link do repositório aqui`
 
 ---
 
 ## Contato
 
-- LinkedIn: `seu link aqui`
-- Email: `seu email aqui`
+- LinkedIn: 
+- Email: educbrompkovski@gmail.com
